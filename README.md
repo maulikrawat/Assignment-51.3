@@ -1,4 +1,5 @@
 Responsive Card Layout using Atomic CSS
+
 This project is a static web page that showcases a modern, responsive card layout. It is built entirely with HTML and CSS, following an Atomic CSS (or utility-first) methodology. Each class has a single, specific purpose, demonstrating how to build a complex and clean design by composing these utilities.
 
 
